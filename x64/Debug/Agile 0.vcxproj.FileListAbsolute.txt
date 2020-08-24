@@ -1,0 +1,2 @@
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\x64\Debug\Agile 0.exe
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\x64\Debug\Agile 0.pdb

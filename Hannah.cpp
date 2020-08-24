@@ -2,5 +2,5 @@
 
 void hannah()
 {
-	cout << "Hannah Nguyen\n\n";
+	cout << "Hannah Nguyen\n";
 }

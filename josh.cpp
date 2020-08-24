@@ -1,5 +1,5 @@
 #include "header.h"
 
-void josh{
+void josh(){
 	cout << "Josh Hoopes\n";
 }

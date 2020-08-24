@@ -1,0 +1,17 @@
+﻿  driver.cpp
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Hannah.cpp
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  josh.cpp
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\josh.cpp(3,10): error C2182: 'josh': illegal use of type 'void'
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\josh.cpp(3,6): error C2365: 'josh': redefinition; previous definition was 'function'
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(8): message : see declaration of 'josh'
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\josh.cpp(4,25): error C2059: syntax error: ';'
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\josh.cpp(5,1): error C2059: syntax error: '}'
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\josh.cpp(5,1): error C2143: syntax error: missing ';' before '}'
+  Justen.cpp
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Liam.cpp
+C:\Users\joshc\Documents\School\Computer Science\CS1C\github\Agile-0\header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...

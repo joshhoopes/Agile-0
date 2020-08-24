@@ -1,5 +1,5 @@
 #include "header.h"
 
 void liam() {
-	cout << "Liam Knight";
+	cout << "Liam Knight\n";
 }
