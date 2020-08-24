@@ -2,6 +2,6 @@
 using namespace std;
 
 
-void Liam() {
+void liam() {
 	cout << "Liam Knight";
 }
